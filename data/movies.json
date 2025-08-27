@@ -1,0 +1,69 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "sci-fi",
+      "rating": 9.0,
+      "watched": "yes"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "sci-fi",
+      "rating": 8.8,
+      "watched": "yes"
+    },
+    {
+      "id": 3,
+      "title": "Arrival",
+      "year": 2016,
+      "genre": "sci-fi",
+      "rating": 8.0,
+      "watched": "no"
+    },
+    {
+      "id": 4,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "sci-fi",
+      "rating": 9.0,
+      "watched": "no"
+    },
+    {
+      "id": 5,
+      "title": "Tinker bell",
+      "year": 2011,
+      "genre": "animated",
+      "rating": 8.0,
+      "watched": "yes"
+    },
+    {
+      "id": 6,
+      "title": "narshimah",
+      "year": 2025,
+      "genre": "animated mythology",
+      "rating": 8.5,
+      "watched": "no"
+    },
+    {
+      "id": 7,
+      "title": "narshimah",
+      "year": 2025,
+      "genre": "animated mythology",
+      "rating": 8.5,
+      "watched": "no"
+    },
+    {
+      "id": 8,
+      "title": "Frozen",
+      "year": 2013,
+      "genre": "animated, comedy, family",
+      "rating": 8.0,
+      "watched": "yes"
+    }
+  ],
+  "next_id": 9
+}
